@@ -1,4 +1,9 @@
 // Callbacks
+// Promises
+// ES6 and Babel
+// Async - Await
+
+// Callbacks
 
 // 1. We want named functions
 // 2. callback works with (err, results) { // You have a pattern to deal with callbacks

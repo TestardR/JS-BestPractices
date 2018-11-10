@@ -1,4 +1,13 @@
 // Global Variables
+// Strict Mode
+// Read Only Properties
+// Deleting properties
+// Octas and Hexidecimals
+// With
+// This
+// This in New Objects
+
+// Global Variables
 
 // In a function, if you declare variables without the "var", these variables will leak to global scope. Avoid it!
 

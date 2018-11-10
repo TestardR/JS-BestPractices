@@ -1,4 +1,10 @@
 // Semicolons
+// Linting
+// Equality
+// Variables
+
+// Semicolons
+
 // Automatic Semicolon Insertion - 3 rules
 
 // Rule 1a: The offending token is separated from the previous token by at least one LineTerminator
